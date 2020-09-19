@@ -13,8 +13,10 @@
 
 ![this](https://i.imgur.com/cJrOFcx.png)
 
-4) Next, [download the Easy Installer PKG file from this link](https://drive.google.com/file/d/1uSJU_ObrwUiTk6EA1R-fNPqVYM7PBMKa/view?usp=sharing).
+4) Next, [download the Easy Installer PKG file from this link](https://drive.google.com/file/d/1uSJU_ObrwUiTk6EA1R-fNPqVYM7PBMKa/view?usp=sharing). \[Note 1]
 5) Finally, simply launch RPCS3 and drag the PKG file you just downloaded into the main RPCS3 window. It will take a few minutes to install. You will know it worked if the game icon changes to a CFBR logo and [looks like this](https://i.imgur.com/JGcJmNB.png). After that, launch the game and enjoy the mods!
+
+\[Note 1]: If you are getting an error saying too many people have downloaded this file, please follow [this](https://www.youtube.com/watch?v=R5q3XpdWfaQ) workaround.
 
 ---------
 For help or questions, join our <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr)
