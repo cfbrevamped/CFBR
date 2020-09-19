@@ -62,9 +62,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Website"
+    - label: "Discord"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://discord.gg/CFBR"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/CFBRevamped"
