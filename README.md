@@ -1,7 +1,7 @@
 # College Football Revamped
 
 <p align="center">
-  <img width="500" src="https://raw.githubusercontent.com/cfbrevamped/CFBR/master/assets/images/CFBR%20LOGO.png">
+  <img width="400" src="https://github.com/cfbrevamped/CFBR/blob/master/assets/images/CFBR.png">
 </p>
 
 Enjoy NCAA Football 14 in a completely new way with updated jerseys, helmets, pants, fields, gloves, logos, and more! [You can even have both teams wear colored jerseys](https://i.imgur.com/j3FKnbD.jpg)!
