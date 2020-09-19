@@ -21,9 +21,9 @@ Enjoy NCAA Football 14 in a completely new way with updated jerseys, helmets, pa
 
 ---------
 ## Select Your Device - (PC, PS3, or XBOX 360)
-| [![PC](https://i.dlpng.com/static/png/6744788_preview.png)](https://github.com/CFBRevamped/CFBR/blob/CFBR/master/PC/index.md)  | [![PS3](https://logonoid.com/images/playstation-3-logo.png)](https://github.com/CFBRevamped/CFBR/blob/CFBR/master/PS3/index.md) | [![XBOX 360](https://i.pinimg.com/originals/79/48/90/794890a80e74dc1c0494d0cf2ecdc68b.png)](https://github.com/CFBRevamped/CFBR/blob/CFBR/master/XBOX/index.md) |
+| [![PC](https://i.dlpng.com/static/png/6744788_preview.png)](https://github.com/cfbrevamped/CFBR/blob/CFBR/master/PC/index.md)  | [![PS3](https://logonoid.com/images/playstation-3-logo.png)](https://github.com/cfbrevamped/CFBR/blob/CFBR/master/PS3/index.md) | [![XBOX 360](https://i.pinimg.com/originals/79/48/90/794890a80e74dc1c0494d0cf2ecdc68b.png)](https://github.com/cfbrevamped/CFBR/blob/CFBR/master/XBOX/index.md) |
 |:---:|:---:|:---:|
-| [PC](https://github.com/CFBRevamped/CFBR/blob/CFBR/master/PC/index.md) | [PS3](https://github.com/CFBRevamped/CFBR/blob/CFBR/master/PS3/index.md) | [XBOX 360](https://github.com/CFBRevamped/CFBR/blob/CFBR/master/XBOX/index.md) |
+| [PC](https://github.com/cfbrevamped/CFBR/blob/CFBR/master/PC/index.md) | [PS3](https://github.com/cfbrevamped/CFBR/blob/CFBR/master/PS3/index.md) | [XBOX 360](https://github.com/cfbrevamped/CFBR/blob/CFBR/master/XBOX/index.md) |
 
 ---------
 For help or questions, join our <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr)
