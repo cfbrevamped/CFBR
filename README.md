@@ -21,7 +21,7 @@ Enjoy NCAA Football 14 in a completely new way with updated jerseys, helmets, pa
 
 ---------
 
-# Known Mod Issues:
+## Known Mod Issues:
 - **Dynasty Crashing:** We are aware of users experiencing occassional crashes during dynasty games. We are currently investigating the root cause and hope to provide a fix in the near future. **Until a fix is released, we advise that you skip all cutscenes, especially the pregame introduction, studio updates, the halftime show, and postgame.**
 - **Syracuse Orange Helmet:** The Syracuse orange helmet has a gray facemask (should be navy). This will be fixed in a future release.
 - **Boston College:** BC recently revealed new uniforms, which we were unable to include in this release due to time. They will be added in the v4 release.
@@ -36,6 +36,12 @@ Of course, if you have any additonal questions, please join our <img width="20" 
 | [![PC](https://i.dlpng.com/static/png/6744788_preview.png)](https://github.com/cfbrevamped/CFBR/blob/master/PC/index.md)  | [![PS3](https://logonoid.com/images/playstation-3-logo.png)](https://github.com/cfbrevamped/CFBR/blob/master/PS3/index.md) | [![XBOX 360](https://i.pinimg.com/originals/79/48/90/794890a80e74dc1c0494d0cf2ecdc68b.png)](https://github.com/cfbrevamped/CFBR/blob/master/XBOX/index.md) |
 |:---:|:---:|:---:|
 | [PC](https://github.com/cfbrevamped/CFBR/blob/master/PC/index.md) | [PS3](https://github.com/cfbrevamped/CFBR/blob/master/PS3/index.md) | [XBOX 360](https://github.com/cfbrevamped/CFBR/blob/master/XBOX/index.md) |
+
+---------
+## Future Releases (Dates TBD):
+- **v4:** App State, Georgia Southern, Charlotte, Coastal Carolina
+- **v5:** Big 12 Part 1
+- **v6:** Big 12 Part 2
 
 ---------
 For help or questions, join our <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr)
