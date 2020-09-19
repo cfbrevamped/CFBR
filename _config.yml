@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "College Football Revamped Mod"
+  name   : "College Football Revamped"
   avatar : "/assets/images/CFBR LOGO.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "The only mod for NCAA 14"
   links:
     - label: "Discord"
       icon: "fab fa-fw fa-discord"
