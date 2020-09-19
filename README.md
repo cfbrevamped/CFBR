@@ -4,7 +4,7 @@
   <img width="400" src="https://github.com/cfbrevamped/CFBR/blob/master/assets/images/CFBR.png">
 </p>
 
-Enjoy NCAA Football 14 in a completely new way with updated jerseys, helmets, pants, fields, gloves, logos, and more! [You can even have both teams wear colored jerseys](https://i.imgur.com/j3FKnbD.jpg)!
+Enjoy NCAA Football 14 in a completely new way with updated jerseys, helmets, pants, fields, gloves, logos, and more! [You can even have both teams wear colored jerseys](https://raw.githubusercontent.com/cfbrevamped/CFBR/master/assets/images/Color_V_Color.jpg)!
 
 - [Watch the trailer for the College Football Revamped ACC + FBS Independents Pack here](https://twitter.com/CFBRevamped/status/1307094068879597568)
 - [Patch Notes](https://i.imgur.com/INAdo18.png)
