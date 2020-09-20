@@ -40,8 +40,8 @@ Of course, if you have any additonal questions, please join our <img width="20" 
 ---------
 ## Future Releases (Dates TBD):
 - **v4:** App State, Georgia Southern, Charlotte, Coastal Carolina
-- **v5:** Big 12 Part 1
-- **v6:** Big 12 Part 2
+- **v5:** Big 12 - Part 1
+- **v6:** Big 12 - Part 2
 
 ---------
 For help or questions, join our <img width="20" src="https://logo-logos.com/wp-content/uploads/2018/03/Discord_icon.png"> [Discord](https://discord.com/invite/cfbr)
