@@ -7,7 +7,7 @@
 Enjoy NCAA Football 14 in a completely new way with updated jerseys, helmets, pants, fields, gloves, logos, and more! [You can even have both teams wear colored jerseys](https://raw.githubusercontent.com/cfbrevamped/CFBR/master/assets/images/Clemson-UNC.png)!
 
 - [Watch the trailer for the College Football Revamped ACC + FBS Independents Pack here](https://twitter.com/CFBRevamped/status/1307094068879597568)
-- [Patch Notes](https://i.imgur.com/INAdo18.png)
+- [Patch Notes](https://github.com/cfbrevamped/CFBR/blob/master/assets/release-notes/V3.md)
 
 ---------
 ## Follow us for important updates and information
